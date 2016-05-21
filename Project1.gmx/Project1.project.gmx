@@ -15,10 +15,14 @@
   <scripts name="scripts">
     <script>scripts\scr_gravity.gml</script>
   </scripts>
+  <fonts name="fonts">
+    <font>fonts\font0</font>
+  </fonts>
   <objects name="objects">
     <object>objects\obj_player</object>
     <object>objects\obj_wall</object>
     <object>objects\obj_enemy</object>
+    <object>objects\obj_xydisplay</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>

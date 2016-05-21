@@ -70,6 +70,9 @@ hspeed = dir * movespeed;
 
 // Player Collision
 
+if (place_meeting(x+hspeed, y, obj_player)) {
+    game_restart();
+}
 // Horizontal Collision
 
 // If, given the current horizontal speed, the object will collide with the wall at the next frame
