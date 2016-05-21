@@ -1,1 +1,9 @@
-owen sucks
+This is the game development document/notes
+
+
+Task list:
+
+ENEMIES
+- Adding npc's/enemies
+- sprites, AI/logic
+
