@@ -38,7 +38,7 @@ hspeed = 0;
 vspeed = 0;
 
 //initialize jump/movement speed, number of current and possible jumps
-jumpspeed = 20;
+jumpspeed = 30;
 movespeed = 5;
 numjumps = 0;
 maxjumps = 1;
