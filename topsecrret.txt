@@ -7,3 +7,10 @@ ENEMIES
 - Adding npc's/enemies
 - sprites, AI/logic
 
+
+
+Player destruction event
+- Destruction event
+- Re-creation? What happens?
+
+Colliding with corners bug ( player gets stuck on corners 
