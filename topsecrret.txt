@@ -1,5 +1,10 @@
-owen sucks
 
-jk 
+This is the game development document/notes
 
-HES PRETTY AWESOME
+
+Task list:
+
+ENEMIESsafd
+- Adding npc's/enemies
+- sprites, AI/logic
+
